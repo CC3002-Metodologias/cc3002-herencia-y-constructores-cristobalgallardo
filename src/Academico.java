@@ -13,7 +13,7 @@ public class Academico extends Persona {
     }
 
     public void dormir() {
-        System.out.println("ZzzZzZzZ");
+        System.out.println("ZzzZzZz");
     }
 
     public String hacerLoSuyo() {

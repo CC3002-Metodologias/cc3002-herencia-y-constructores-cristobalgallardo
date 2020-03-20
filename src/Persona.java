@@ -11,7 +11,7 @@ public class Persona {
 
 
     public void comer() {
-        System.out.println("Ñom Ñom comida");
+        System.out.println("Ñom Ñom comida casera");
     }
 
     public void dormir() {

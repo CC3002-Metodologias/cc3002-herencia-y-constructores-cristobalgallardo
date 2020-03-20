@@ -7,7 +7,7 @@ public class Estudiante  extends Persona{
     }
 
     public void dormir() {
-        System.out.println("ZzzZzZzZ");
+        System.out.println("ZzzZzZ");
     }
 
     public String hacerLoSuyo() {
